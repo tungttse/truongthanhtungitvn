@@ -1,4 +1,6 @@
 ### Hi there 👋
+Thanh Tung Truong
+611962
 
 <!--
 **truongthanhtungitvn/truongthanhtungitvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
